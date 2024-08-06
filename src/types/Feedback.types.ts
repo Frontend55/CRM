@@ -1,0 +1,3 @@
+interface FeedbackTypes {
+  message: string
+}
